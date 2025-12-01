@@ -1,2 +1,2 @@
-# Java-Github-Engeering-Class
-This repo is created to JAVA class
+# Version 1.0.0
+- Added `.env` file for saving `secret_code`
